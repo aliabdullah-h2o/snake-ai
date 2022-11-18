@@ -1,5 +1,5 @@
 from os import environ
-from snake_human import *
+from snake import *
 import pygame
 
 def draw(game_screen, snake, food):
